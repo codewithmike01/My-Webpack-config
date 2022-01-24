@@ -1,7 +1,8 @@
 # My Webpack config
 
 >This is a starter webpack full configuration, i made for [myself](https://github.com/Ginohmk) , but you are free to use it 😃 - including docs, Makefile, and GH Actions CI
-_TODO:
+<br>
+_TODO: For ease of use, Do not change folder names
 
 <br><br>
 
