@@ -5,7 +5,7 @@
 _TODO: For ease of use, Do not change folder names
 
 <br><br>
-
+[Click to use as template](https://github.com/Ginohmk/My-Webpack-config/generate)
 
 ## How to use this starter project
 >_TODO: You must have node installed on your machine, inother to use the npm command
